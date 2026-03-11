@@ -1,8 +1,24 @@
 # ci-cd-system
-Ci Cd System - Built with ❤️
+
+This is a CI/CD system built with ❤️.
+
+## Features
+- Continuous Integration
+- Continuous Deployment
+
+## Technical Stack
+- Docker
+- GitHub Actions
+
+## Usage
+1. Clone the repository
+2. Configure your CI/CD settings in the `config` folder.
+
+## Future Plans
+- Add more features
+- Improve documentation
 
 ## Contributing
-
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 1. Fork the project
